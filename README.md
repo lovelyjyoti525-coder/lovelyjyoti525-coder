@@ -1,74 +1,164 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Jyoti Gupta
 
-###
+📍 Visakhapatnam, Andhra Pradesh, India  
+📧 lovelyjyoti525@gmail.com  
+📱 +91 9861620075  
+💼 LinkedIn: https://www.linkedin.com/in/jyoti-gupta-6776422b0/
 
-<p align="left">My name is Jyoti Gupta and I'm a Data Analytics </p>
+---
 
-###
+## 🚀 About Me
 
-<h2 align="left">About me</h2>
+I'm a passionate **Data Analytics & Data Science undergraduate** with hands-on experience in **Python, SQL, R, Power BI, and MongoDB**. I enjoy transforming raw data into meaningful insights through data cleaning, exploratory analysis, and visualization.
 
-###
+🎯 Interested in:
+- Data Analytics
+- Data Science
+- Machine Learning
+- Data Visualization
 
-<p align="left">📚 I'm currently learning Python, Power BI, SQL, MS Excel<br>🎯 Goals: Data Analytics</p>
+---
 
-###
+## 🎓 Education
 
-<h2 align="left">Highlights</h2>
+### 🏫 B.Tech in Data Analytics & Data Science
+**Gandhi Institute of Technology and Management (GITAM), Visakhapatnam**  
+📅 2023 – 2027
 
-###
+- 📊 CGPA: 7.74
+- 📈 Percentage: 77%
+---
 
-<p align="left">📄 Data Analytics Job Simulation– Deloitte (Forage)<br> 📄 Data Visualization: Empowering Business with Effective Insights - TATA (Forage)<br>📄 Microsoft Data Analytics Certification <br>📄 Data Analytics Intern In UptoSkill</p>
+## 💼 Experience
 
-###
+### 👨‍💻 Team Leader – Data Analytics
+**UpToSkills** | Jan 2026 – Apr 2026
 
-<h2 align="left">Skills</h2>
+✅ Led a team in:
+- Data Quality Checks
+- Data Cleaning & Preprocessing
+- Data Mining & Extraction
+- Data Visualization & Reporting
 
-###
+✅ Delivered accurate and actionable data insights within project deadlines.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"
-     height="40"
-     alt="MS Excel logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
-     height="40"
-     alt="Power BI logo" />
-</div>
+---
 
-###
+## 🛠️ Technical Skills
 
-<h2 align="left">Social Media</h2>
+### 💻 Programming Languages
+- 🐍 Python
+- 📊 R
+- ☕ Java
+- ⚙️ C
 
-###
+### 📚 Python Libraries
+- Pandas
+- NumPy
+- Matplotlib
 
-<div align="left">
-  <a href="www.linkedin.com/in/hrusikesh-behera03" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="lovelyjyoti525@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+### 📈 Data Analytics
+- Data Cleaning
+- Data Preprocessing
+- Data Mining
+- Exploratory Data Analysis (EDA)
+- Data Visualization
 
-###
+### 🔧 Tools & Databases
+- 📊 Power BI
+- 🍃 MongoDB
 
+---
 
-<!--
-**lovelyjyoti525-coder/lovelyjyoti525-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Projects
 
-Here are some ideas to get you started:
+### 🧮 Simple Calculator Application
+**Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Built a command-line calculator.
+- Implemented arithmetic operations.
+- Added input validation and error handling.
+
+---
+
+### 📝 Java Notes Application
+**Java Swing**
+
+- Developed a desktop notes application.
+- Implemented file handling for persistent storage.
+
+---
+
+### 🎮 E-Sports Data Analysis
+**Python | Google Colab**
+
+- Conducted exploratory data analysis.
+- Generated visual insights from gaming datasets.
+
+---
+
+### 📊 Data Analysis Using R
+**R Studio**
+
+- Analyzed Kaggle datasets.
+- Performed data preprocessing and visualization.
+
+---
+
+### 📱 Instagram Influencer Data Analysis
+**Python**
+
+- Analyzed engagement and performance metrics.
+- Created visualizations to identify trends and patterns.
+
+---
+
+## 🏆 Certifications
+
+📜 Data Analytics Job Simulation – Deloitte (Forage)
+
+📜 SQL Bootcamp Certification
+
+📜 Microsoft Data Analytics Certification
+
+📜 Data Visualization: Empowering Business with Effective
+Insights - TATA (Forage)
+
+---
+
+## 🚀 Hackathons & Achievements
+
+🏅 CodeHer Hackathon Participant
+
+🏅 Git Fusion Hackathon Participant
+
+🏅 TechXcelerate Hackathon Participant
+
+---
+
+## 🤝 Soft Skills
+
+- 🧠 Analytical Thinking
+- 🔍 Problem Solving
+- 🗣️ Communication & Data Storytelling
+- 👥 Team Collaboration
+- ⏰ Time Management
+- 🎯 Attention to Detail
+- 💡 Critical Thinking
+- 🔄 Adaptability
+
+---
+
+## 📊 Career Objective
+
+I aspire to build a career in **Data Analytics and Data Science**, leveraging data-driven solutions to solve real-world business challenges while continuously enhancing my technical and analytical expertise.
+
+---
+
+## 📫 Let's Connect
+
+📧 Email: lovelyjyoti525@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/jyoti-gupta-6776422b0/
+
+⭐ Open to internships, research opportunities, and entry-level roles in Data Analytics & Data Science.
